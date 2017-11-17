@@ -10,7 +10,8 @@ For the first visualization, the columns of the data I used are:
 
 # Lax Rules Lead to Higher Mortality!
 
-<img width="1129" alt="screen shot 2017-11-17 at 11 45 09 am" src="https://user-images.githubusercontent.com/32226800/32965872-daab374c-cb8c-11e7-8c19-d8d7bc8a0d0f.png">
+<img width="1052" alt="screen shot 2017-11-17 at 1 12 28 pm" src="https://user-images.githubusercontent.com/32226800/32969282-4f596b20-cb99-11e7-9fe0-8c543bd54e56.png">
+
 
 # Audience: People who want to know which state has the most and the least gun deaths in America.
 
