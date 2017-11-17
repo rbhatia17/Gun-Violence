@@ -3,6 +3,7 @@
 This is a Deceptive project, where we create a deceptive visualization from the existing data. It is done in many different ways like data manipulation, truncating the axis and much more.
 # Data
 The data I am using is for the deaths that take place from guns, it contains gun death rate for each state of United States of America, number of gun deaths, population for each state and how are the laws for gun violence in each state. By the laws I mean there are three categories of laws Firm, Moderate and weak, I got the data for the laws in the forms of grades that are A, A-, B, B+, C, C-, D, F and then I categorized them as Firm, Moderate, and Weak. 
+
 For the first visualization, the columns of the data I used are:
 -	States
 -	Laws
@@ -44,3 +45,4 @@ I choosed this metrics as when i saw the population of california and calculated
 
 <img width="1065" alt="screen shot 2017-11-17 at 2 29 14 pm" src="https://user-images.githubusercontent.com/32226800/32971798-c12ce6fa-cba3-11e7-8ca0-9291acee63f7.png">
 
+As in this the area chart depicts the actual number of deaths and line chart depicts the death rate, now when we combine both charts together 
