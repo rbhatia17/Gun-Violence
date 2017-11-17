@@ -12,10 +12,12 @@ For the first visualization, the columns of the data I used are:
 
 <img width="1129" alt="screen shot 2017-11-17 at 11 45 09 am" src="https://user-images.githubusercontent.com/32226800/32965872-daab374c-cb8c-11e7-8c19-d8d7bc8a0d0f.png">
 
-Audience: People who want to know which state has the most and the least gun deaths.
+# Audience: People who want to know which state has the most and the least gun deaths in America.
 
-Claim: Lax Rules Lead to Higher Mortality! this says where there are the weak laws there we have the most gun deaths.
+# Claim: Lax Rules Lead to Higher Mortality! 
+This says where there are the weak laws there we have the most gun deaths and where there are strict laws we have the least gun deaths.
 
+I choosed this metrics as i stay in california so i started at looking first for california, and i found california has really strict laws for gun violence and then i got data for the death rate. So, i plotted this on tableau and i saw it has less deaths, and then i choosed a state which has very weak law like alaska and plotted that and saw it has got a very high rate of gun violence so i decided to go with this metric and collected data for the laws for each state and death rates and created a metrics to support my claim.
 I created this visualisation to see where there are the most gun deaths, as according to this i got the states which have strict laws have less number of gun deaths, and this supports my claim
 
 # Flaws and Deceptiveness 
