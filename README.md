@@ -54,3 +54,5 @@ As in this the area chart depicts the actual number of deaths and line chart dep
 # References
 https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
 https://www.census.gov/data/tables/2016/demo/popest/state-total.html
+https://docs.google.com/spreadsheets/d/1GZP1oymvWHEoRnJjP-XdKfmVIqQX2JXy2DgWuVQ3faw/edit?hl=en&hl=en#gid=5
+
