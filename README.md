@@ -25,6 +25,8 @@ This visualisation is deceptive as it's the manipulation of data as it depicts t
 
 # Ineffectiveness of Strict Gun Laws!
 
+<img width="1049" alt="screen shot 2017-11-17 at 1 29 06 pm" src="https://user-images.githubusercontent.com/32226800/32969821-56778d5e-cb9b-11e7-86e2-04c7ad0a48d4.png">
+
 # Audience: People who want to know which state has the most and the least gun deaths in America.
 
 # Claim: 
