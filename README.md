@@ -20,5 +20,11 @@ This says where there are the weak laws there we have the most gun deaths and wh
 
 I choosed this metrics as i stay in california so i started at looking first for california, and i found california has really strict laws for gun violence and then i got data for the death rate. I saw it has less deaths, and then i choosed a state which has very weak law like alaska and compared both the states and saw it has got a very high rate of gun violence so i decided to go with this metric and collected data for the laws for each state and death rates and created a metrics that support my claim.
 
-# Flaws and Deceptiveness 
-This visualisation is deceptive as it depicts that the states that have the strict laws have the less number of gun deaths, but this is not the truth as in this visualisation its depicted the death rate which is death rate for 100,000 population. But the population actually varies 
+# Deceptiveness 
+This visualisation is deceptive as it's the manipulation of data as it depicts that the states that have the strict laws have the less number of gun deaths, but this is not the truth as in this visualisation its depicted the death rate which is death rate for 100,000 population. But the population actually varies from state to state. So to look at the population factor and look at the actual number of deaths i made another visualisation. 
+
+# Ineffectiveness of Strict Gun Laws!
+
+# Audience: People who want to know which state has the most and the least gun deaths in America.
+
+# Claim: 
