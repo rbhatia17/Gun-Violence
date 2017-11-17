@@ -33,3 +33,8 @@ This visualisation is deceptive as it's the manipulation of data as it depicts t
 This says that if a state has a strict gun law they still have the most gun violence.
 
 I choosed this metrics as when i saw the population of california and calculated the actual number of deaths for that population came more and then i calculated it for alaska the number of deaths came less and then i realised the previous visualisation was deceptive so i planned to plot this data on tableau and when i did it became a rebuttal of the first one. 
+
+# Two Claims Out of a Single Dataset!
+
+<img width="1065" alt="screen shot 2017-11-17 at 2 29 14 pm" src="https://user-images.githubusercontent.com/32226800/32971798-c12ce6fa-cba3-11e7-8ca0-9291acee63f7.png">
+
