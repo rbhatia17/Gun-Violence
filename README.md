@@ -15,3 +15,5 @@ For the first visualization, the columns of the data I used are:
 Audience: People who want to know which state has the most and the least gun deaths.
 
 Claim: Lax Rules Lead to Higher Mortality! this says where there are the weak laws there we have the most gun deaths.
+
+I created this visualisation to see where there are the most gun deaths, as according to this i got the states which have strict laws have less number of gun deaths, and this supports my claim
