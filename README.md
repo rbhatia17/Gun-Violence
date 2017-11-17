@@ -17,3 +17,6 @@ Audience: People who want to know which state has the most and the least gun dea
 Claim: Lax Rules Lead to Higher Mortality! this says where there are the weak laws there we have the most gun deaths.
 
 I created this visualisation to see where there are the most gun deaths, as according to this i got the states which have strict laws have less number of gun deaths, and this supports my claim
+
+# Flaws and Deceptiveness 
+This visualisation depicts that the states that have the strict laws have the less number of gun deaths, but this is not the truth as in this its depicted the death rate which is death rate for 100,000 population
