@@ -22,7 +22,7 @@ This says where there are the weak laws there we have the most gun deaths and wh
 I choosed this metrics as i stay in california so i started at looking first for california, and i found california has really strict laws for gun violence and then i got data for the death rate. I saw it has less deaths, and then i choosed a state which has very weak law like alaska and compared both the states and saw it has got a very high rate of gun violence so i decided to go with this metric and collected data for the laws for each state and death rates and created a metrics that support my claim. Metrics is a glue between the data and the claim.
 
 # Deceptiveness 
-This visualisation is deceptive as it's the manipulation of data as it depicts that the states that have the strict laws have the less number of gun deaths, but this is not the truth as in this visualisation its depicted the death rate which is death rate for 100,000 people. But the population actually varies from state to state. So to look at the population factor and look at the actual number of deaths i made another visualisation. 
+This visualization is deceptive as it's the manipulation of data as it depicts that the states that have the strict laws have the less number of gun deaths, but this is not the truth as in this visualization its depicted the death rate which is death rate for 100,000 people. But the population actually varies from state to state. So to look at the population factor and look at the actual number of deaths i made another visualization. 
 
 # Ineffectiveness of Strict Gun Laws!
 
@@ -39,7 +39,7 @@ For this visualization, the columns of the data I used are:
 -	Number of Deaths 
 - Population
 
-I choosed this metrics as when i saw the population of california and calculated the actual number of deaths for that population came more and then i calculated it for alaska the number of deaths came less and then i realised the previous visualisation was deceptive so i planned to plot this data on tableau and when i did it became a rebuttal of the first one. 
+I choosed this metrics as when i saw the population of california and calculated the actual number of deaths for that population came more and then i calculated it for alaska the number of deaths came less and then i realised the previous visualization was deceptive so i planned to plot this data on tableau and when i did it became a rebuttal of the first one. 
 
 # Two Claims Out of a Single Dataset!
 
