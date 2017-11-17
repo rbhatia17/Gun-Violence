@@ -50,3 +50,7 @@ As in this the area chart depicts the actual number of deaths and line chart dep
 # Project Takeaway: 
 - Data deception is due to data manipulation and data calculation.
 - Claim hold a very important part at the time of designing a visulaization. As a visualization can be deceptive or truthful.
+
+# References
+https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
+
