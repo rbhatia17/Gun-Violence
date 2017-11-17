@@ -48,5 +48,5 @@ I choosed this metrics as when i saw the population of california and calculated
 As in this the area chart depicts the actual number of deaths and line chart depicts the death rate, now when we combine both charts together we can clearly see the differnce and this is the reason why we can get two claims from the single dataset.We can clearly see the actual number of deaths are more than the death rate. But we do have few exceptions like florida and texas. 
 
 # Project Takeaway: 
-- Data deception is due to manipulation and data calculation.
+- Data deception is due to data manipulation and data calculation.
 - Claim hold a very important part at the time of designing a visulaization. As a visualization can be deceptive or truthful.
