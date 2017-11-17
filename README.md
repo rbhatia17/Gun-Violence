@@ -32,5 +32,4 @@ This visualisation is deceptive as it's the manipulation of data as it depicts t
 # Claim: Ineffectiveness of Strict Gun Laws!
 This says that if a state has a strict gun law they still have the most gun violence.
 
-I choosed this metrics 
-This visualisation is a rebuttal of the first one. 
+I choosed this metrics as when i saw the population of california and calculated the actual number of deaths for that population came more and then i calculated it for alaska the number of deaths came less and then i realised the previous visualisation was deceptive so i planned to plot this data on tableau and when i did it became a rebuttal of the first one. 
