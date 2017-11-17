@@ -29,4 +29,8 @@ This visualisation is deceptive as it's the manipulation of data as it depicts t
 
 # Audience: People who want to know which state has the most and the least gun deaths in America.
 
-# Claim: 
+# Claim: Ineffectiveness of Strict Gun Laws!
+This says that if a state has a strict gun law they still have the most gun violence.
+
+I choosed this metrics 
+This visualisation is a rebuttal of the first one. 
