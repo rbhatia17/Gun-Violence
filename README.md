@@ -59,8 +59,8 @@ https://docs.google.com/spreadsheets/d/1GZP1oymvWHEoRnJjP-XdKfmVIqQX2JXy2DgWuVQ3
 http://lawcenter.giffords.org/scorecard/
 
 # Tableau Link:
-https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeathsDeceptive/Dashboard1?publish=yes
-https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeath_0/Dashboard2?publish=yes 
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeath_0/Dashboard1?publish=yes
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeathsDeceptive/Dashboard2?publish=yes
 
 # Video Link
 https://rachitabhatia.my.webex.com/rachitabhatia.my/ldr.php?RCID=d4c6f183022a2e57056242471f597b36
