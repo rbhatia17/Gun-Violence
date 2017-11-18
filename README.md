@@ -11,7 +11,7 @@ For the first visualization, the columns of the data I used are:
 
 # Lax Rules Lead to Higher Mortality!
 
-<img width="1058" alt="screen shot 2017-11-17 at 2 12 45 pm" src="https://user-images.githubusercontent.com/32226800/32971371-d1821482-cba1-11e7-96c9-f0ac135fb554.png">
+<img width="1033" alt="screen shot 2017-11-17 at 4 50 04 pm" src="https://user-images.githubusercontent.com/32226800/32975709-2b35bffc-cbbf-11e7-95af-82a6f8d14e3b.png">
 
 
 # Audience: People who want to know which state has the most and the least gun deaths in America.
@@ -26,7 +26,7 @@ This visualization is deceptive as it's the manipulation of data as it depicts t
 
 # Ineffectiveness of Strict Gun Laws!
 
-<img width="1051" alt="screen shot 2017-11-17 at 2 13 09 pm" src="https://user-images.githubusercontent.com/32226800/32971395-ee619172-cba1-11e7-881d-e879798e8b76.png">
+<img width="1048" alt="screen shot 2017-11-17 at 4 50 13 pm" src="https://user-images.githubusercontent.com/32226800/32975715-48b5cd56-cbbf-11e7-83d9-dcc446026f1d.png">
 
 # Audience: People who want to know which state has the most and the least gun deaths in America.
 
