@@ -43,7 +43,7 @@ I choosed this metrics as when i saw the population of california and calculated
 
 # Two Claims Out of a Single Dataset!
 
-<img width="1065" alt="screen shot 2017-11-17 at 2 29 14 pm" src="https://user-images.githubusercontent.com/32226800/32971798-c12ce6fa-cba3-11e7-8ca0-9291acee63f7.png">
+<img width="1071" alt="screen shot 2017-11-17 at 5 47 34 pm" src="https://user-images.githubusercontent.com/32226800/32975726-711b18be-cbbf-11e7-96eb-379ac0fd07fc.png">
 
 As in this the area chart depicts the actual number of deaths and line chart depicts the death rate, now when we combine both charts together we can clearly see the differnce and this is the reason why we can get two claims from the single dataset.We can clearly see the actual number of deaths are more than the death rate. But we do have few exceptions like florida and texas. 
 
