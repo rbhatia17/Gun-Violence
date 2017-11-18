@@ -58,4 +58,5 @@ https://docs.google.com/spreadsheets/d/1GZP1oymvWHEoRnJjP-XdKfmVIqQX2JXy2DgWuVQ3
 http://lawcenter.giffords.org/scorecard/
 
 # Tableau Link:
-
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeathsDeceptive/Dashboard1?publish=yes
+https://public.tableau.com/profile/rachita.bhatia#!/vizhome/GunDeath_0/Dashboard2?publish=yes
